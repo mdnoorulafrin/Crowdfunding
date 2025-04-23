@@ -45,4 +45,7 @@ Campaign success vs. failure rate visualization
 Filters for interactive exploration by status, country, and city
 
 🚀 Outcome
-The final dashboard serves as a tool for platform managers and creators to understand trends and plan more effective crowdfunding campaigns based on data.
+The final dashboard serves as a tool for platform managers and creators to understand trends and plan more effective crowdfunding campaigns based on data.                                              
+
+
+The project file was so long that we can upload it on GITHUB here's the drive link  https://drive.google.com/drive/folders/1duhFi8nz0TDdXGk8IYCOIAYO5vYEJxml
